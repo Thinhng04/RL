@@ -1,0 +1,7 @@
+numpy
+pygame
+gymnasium
+torch
+tensorflow
+stable-baselines3
+matplotlib

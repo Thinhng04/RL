@@ -1,0 +1,2 @@
+This repository contains a Reinforcement Learning project training an AI to play Snake in a custom Gymnasium environment.
+It implements and compares three algorithms: Q-Learning, Policy Gradient, and PPO.
